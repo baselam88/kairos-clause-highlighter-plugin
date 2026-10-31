@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Flags non-standard clauses (auto-renewal, liability caps, termination) in a pasted contract for human review.",
+  "keywords": [
+    "clause",
+    "highlighter",
+    "kairos",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-clause-highlighter",
+  "repository": "https://github.com/baselam88/kairos-clause-highlighter-plugin",
+  "version": "0.1.0"
+}
